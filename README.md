@@ -108,7 +108,7 @@
 
                                                                                     <div class="form-group" style="color: #dbe2ea;font-size: 18px;font-weight: 400;">
                                                 <label>Expiry Date : </label>
-                                                <label >16 Jan 2026</label>
+                                                <label >16 Jul 2026</label>
                                             </div>
                                                                                                                 <div class="form-group" style="color: #dbe2ea;font-size: 18px;font-weight: 400;">
                                         <label>Induction Exp Date : </label>
